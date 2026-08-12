@@ -4,6 +4,6 @@ title: About
 ---
 This based on [my personal blog](https://www.dranlin.com). need update late~
 
-![About](blob:https:/app.pagescms.org/49c1cba5-b323-4762-b2fa-1eb08ad8661b)
-  
+![](/assets/IMG_9697.JPG)
+
 Or you can even give any feedback via my [email](mailto:leavingever736@gmail.com).
